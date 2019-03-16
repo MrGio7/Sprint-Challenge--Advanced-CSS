@@ -1,3 +1,15 @@
+.button-signUp {
+  width: 108px;
+  background: #22283A;
+  border-radius: 5px;
+  color: #dee2e6;
+  font-size: 1.5rem;
+  padding: 8px 28px;
+}
+.button-signUp:hover {
+  background: green;
+  color: black;
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -236,7 +248,16 @@ footer {
   margin-bottom: 26px;
 }
 .home .walk .walk-text .btn {
-  background: red;
+  width: 108px;
+  background: #22283A;
+  border-radius: 5px;
+  color: #dee2e6;
+  font-size: 1.5rem;
+  padding: 8px 28px;
+}
+.home .walk .walk-text .btn:hover {
+  background: green;
+  color: black;
 }
 .home .walk .walk-img {
   width: 46%;
